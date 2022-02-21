@@ -1,6 +1,6 @@
 {
   "name": "@sunasteriskrnd/eslint-config-typescript",
-  "version": "0.0.0-beta.0",
+  "version": "0.1.0-beta.0",
   "main": "index.js",
   "repository": "git@github.com:sun-asterisk-research/eslint-config.git",
   "license": "MIT",
