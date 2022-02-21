@@ -30,10 +30,10 @@
   dependencies:
     eslint-plugin-nuxt "^3.1.0"
 
-"@sunasteriskrnd/eslint-config-typescript@^0.1.0-beta.1":
-  version "0.1.0-beta.1"
-  resolved "https://registry.yarnpkg.com/@sunasteriskrnd/eslint-config-typescript/-/eslint-config-typescript-0.1.0-beta.1.tgz#d33fe50347fe5caf566a3d13e5884c9aa5d516d4"
-  integrity sha512-XKHTcCUN5d/d/sKcPWq1V2r98CJNPBxiy9jyaEqdbs7IeF1RtfOmUvO07g2njfYm5iWke1wvCwFPogTIi/EZzw==
+"@sunasteriskrnd/eslint-config-typescript@^0.1.0-beta.2":
+  version "0.1.0-beta.2"
+  resolved "https://registry.yarnpkg.com/@sunasteriskrnd/eslint-config-typescript/-/eslint-config-typescript-0.1.0-beta.2.tgz#251e6f4cad301fa8187c043a6e4bd6ad91598c2e"
+  integrity sha512-Yy42uIxIU552VxcBp+a0IP6ogO1P9aNKwK03c6RjmLmKW0BIF1Ox8DIMVQ0SS3M35y8WYonjO4go1nrAguudpQ==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^5.12.0"
     "@typescript-eslint/parser" "^5.12.0"
