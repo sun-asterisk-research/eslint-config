@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-beta.5](https://github.com/sun-asterisk-research/eslint-config/compare/eslint-config-sunasteriskrnd@0.1.0-beta.4...eslint-config-sunasteriskrnd@0.1.0-beta.5) (2022-02-21)
+
+
+### Features
+
+* **aio:** update lockfile ([d4ede1c](https://github.com/sun-asterisk-research/eslint-config/commit/d4ede1cfe0bff8889d4155102b5529b39dbe6bf4))
+
+
+
+
+
 # [0.1.0-beta.4](https://github.com/sun-asterisk-research/eslint-config/compare/eslint-config-sunasteriskrnd@0.1.0-beta.3...eslint-config-sunasteriskrnd@0.1.0-beta.4) (2022-02-21)
 
 
