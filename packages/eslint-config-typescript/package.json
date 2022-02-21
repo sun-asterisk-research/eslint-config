@@ -1,0 +1,16 @@
+{
+  "name": "@sunasteriskrnd/eslint-config-typescript",
+  "version": "0.0.0-beta.0",
+  "main": "index.js",
+  "repository": "git@github.com:sun-asterisk-research/eslint-config.git",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.12.0",
+    "@typescript-eslint/parser": "^5.12.0",
+    "eslint-config-airbnb-typescript": "^16.1.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
