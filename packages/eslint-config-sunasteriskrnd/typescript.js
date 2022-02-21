@@ -1,5 +1,5 @@
 module.exports = {
     extends: [
-        '@sunasteriskrnd/nuxt',
+        '@sunasteriskrnd/typescript',
     ],
 };
