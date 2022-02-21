@@ -1,0 +1,10 @@
+{
+  "name": "@sunasteriskrnd/eslint-config-vue",
+  "version": "0.0.0-beta.1",
+  "main": "index.js",
+  "repository": "git@github.com:sun-asterisk-research/eslint-config.git",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-plugin-vue": "^8.4.1"
+  }
+}
