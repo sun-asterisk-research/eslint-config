@@ -3,8 +3,9 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean -y",
     "ls": "lerna ls",
-    "publish": "lerna publish"
+    "release": "lerna publish -m \"chore: release\""
   },
   "devDependencies": {
     "lerna": "^4.0.0"
