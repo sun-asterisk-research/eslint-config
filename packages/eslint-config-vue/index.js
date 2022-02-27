@@ -17,4 +17,12 @@ module.exports = {
         }],
         'vue/require-default-prop': 'off'
     },
+    overrides: [
+        {
+            files: ['*.vue'],
+            rules: {
+                indent: 'off'
+            },
+        },
+    ],
 };
