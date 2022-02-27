@@ -1,0 +1,14 @@
+{
+  "name": "@sunasteriskrnd/eslint-config-vue3",
+  "version": "0.1.0-beta.0",
+  "main": "index.js",
+  "repository": "git@github.com:sun-asterisk-research/eslint-config.git",
+  "license": "MIT",
+  "dependencies": {
+    "@sunasteriskrnd/eslint-config-vue": "^0.1.0-beta.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
