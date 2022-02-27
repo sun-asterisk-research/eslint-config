@@ -1,13 +1,13 @@
 {
   "name": "eslint-config-sunasteriskrnd",
-  "version": "0.1.0-beta.5",
+  "version": "0.1.0-beta.6",
   "main": "index.js",
   "repository": "git@github.com:sun-asterisk-research/eslint-config.git",
   "license": "MIT",
   "dependencies": {
-    "@sunasteriskrnd/eslint-config": "^0.1.0-beta.1",
-    "@sunasteriskrnd/eslint-config-nuxt": "^0.1.0-beta.1",
-    "@sunasteriskrnd/eslint-config-typescript": "^0.1.0-beta.2",
+    "@sunasteriskrnd/eslint-config": "^0.1.0-beta.2",
+    "@sunasteriskrnd/eslint-config-nuxt": "^0.1.0-beta.2",
+    "@sunasteriskrnd/eslint-config-typescript": "^0.1.0-beta.3",
     "@sunasteriskrnd/eslint-config-vue3": "^0.1.0-beta.1"
   },
   "publishConfig": {
